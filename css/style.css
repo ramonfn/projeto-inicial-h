@@ -1,0 +1,8 @@
+
+/*Este é um comentário em CSS*/
+.cabecalho h1 {
+    font-size: 24px;
+    color: #333;
+    background-color: rgb(255, 0, 191) !important;
+}
+
