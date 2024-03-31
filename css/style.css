@@ -3,11 +3,9 @@
 h1 {
     color: red;
 }
-
 .link{
     display: inline;
     margin: 5%;
-
 }
 .cabecalho {
     background-color: blue;
@@ -32,7 +30,7 @@ nav {
     color: green;
  }
  button{
-    background-color: aqua;
+    background-color: blue;
     color: white;
  }
  #rodape{
