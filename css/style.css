@@ -28,3 +28,6 @@ nav {
     border: solid 1px grey;
     padding: 10px;
  }  
+ p{
+    color: green;
+ }
