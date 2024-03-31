@@ -23,4 +23,8 @@ nav {
  }
  #conteudo{
     line-height: 1.5;
- }   
+ } 
+ form{
+    border: solid 1px grey;
+    padding: 10px;
+ }  
