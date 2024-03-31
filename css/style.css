@@ -31,3 +31,7 @@ nav {
  p{
     color: green;
  }
+ button{
+    background-color: aqua;
+    color: white;
+ }
